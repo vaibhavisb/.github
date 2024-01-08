@@ -1,0 +1,30 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+background-color: goldenrod;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+#counter
+{
+height: 200px;
+width: 200px;
+color: purple;
+background-color: white;
+box-shadow: 5px 5px gray;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#buttons
+{
+    color: purple;
+font-size: medium;
+align-items: center;
+}
